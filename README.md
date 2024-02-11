@@ -9,6 +9,8 @@ I'm a programmer **passionate about new technologies**. My journey in tech has l
 
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Toffy13/Toffy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
