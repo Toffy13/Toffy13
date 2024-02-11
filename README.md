@@ -8,10 +8,7 @@ I'm a programmer **passionate about new technologies**. My journey in tech has l
 - **Blockchain**: Delving into the decentralized and distributed ledger technology that's revolutionizing how transactions and data are recorded and shared across the globe.
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Code-Python-blue)
-![](https://img.shields.io/badge/Technology-Blockchain-brightgreen)
-![](https://img.shields.io/badge/Field-AI-lightgrey)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 <!--
 **Toffy13/Toffy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
